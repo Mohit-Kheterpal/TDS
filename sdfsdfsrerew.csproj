@@ -82,7 +82,7 @@
       <DependentUpon>AppDelegate.cs</DependentUpon>
     </Compile>
     <Compile Include="EmptyClass.cs" />
-    <Compile Include="EmptyClass3.cs" />
+    <Compile Include="EmptyClass5.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="MainWindow.xib" />
